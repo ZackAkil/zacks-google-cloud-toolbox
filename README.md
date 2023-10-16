@@ -1,4 +1,4 @@
-# Zacks Google Cloud Toolbox
+# ☁️ Zacks Google Cloud Toolbox 🧰
 some handy dandy scripts for doing things on google cloud 
 
 ## Contents
